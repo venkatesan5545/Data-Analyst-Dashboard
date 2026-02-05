@@ -65,11 +65,3 @@ Customer experience analysis
 Sales and revenue tracking
 
 Management reporting and operational reviews
-
-📂 Files Included
-
-Excel dashboard file (.xlsx)
-
-Raw data and pivot sheets
-
-Visual analytics and summary report
