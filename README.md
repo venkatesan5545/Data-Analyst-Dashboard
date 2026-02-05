@@ -1,7 +1,10 @@
 # Data-Analyst-Dashboard
 This project presents an interactive Excel-based data analytics dashboard designed to analyze and monitor customer support call center performance. The dashboard consolidates key operational metrics into a single view, enabling quick insights and data-driven decision-making.
 🔍 Dashboard Overview
+
 Dataset used:https://github.com/venkatesan5545/Data-Analyst-Dashboard/blob/main/sample-call-centre-data.xlsx
+
+Dashboard:https://github.com/venkatesan5545/Data-Analyst-Dashboard/blob/main/Screenshot%202026-01-02%20125330.png
 
 The dashboard provides a comprehensive analysis of:
 
